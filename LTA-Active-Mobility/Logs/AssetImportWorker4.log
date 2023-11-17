@@ -1491,3 +1491,11 @@ Received Import Request.
 Start importing Assets/Scenes/LoseScreen.unity using Guid(09496c26df688754985b2d635d994dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad308cf0031209a845ec51bdd258af1') in 0.001892 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 62.857548 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8abce2237fe2f6a93cd7d07b61ad34d') in 0.000416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
