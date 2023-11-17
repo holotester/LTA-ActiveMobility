@@ -436,6 +436,7 @@
 "Assets/Script/SceneSwitcher.cs"
 "Assets/Script/ScoreDisplay.cs"
 "Assets/Script/scoreHandler.cs"
+"Assets/Script/scoreHandler2.cs"
 "Assets/Script/ScoreManager.cs"
 "Assets/Script/SimpleFlash.cs"
 "Assets/Script/spawncoins.cs"
