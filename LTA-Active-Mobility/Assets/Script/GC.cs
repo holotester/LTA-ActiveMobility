@@ -12,7 +12,7 @@ public class GC : MonoBehaviour
     public RectTransform Phone;
 
     // private Vector2 initialPosition;
-
+    public int newtotalPoints;
     public int totalpoints;
     public float maxDistanceBeforeDamage = 1f;
 
@@ -100,6 +100,9 @@ public class GC : MonoBehaviour
             hasHealthDecremented = false; // Reset the flag when the conditions are not met
         }
         StartCoroutine(RestartCurrentlevel());
+
+        PlayerPrefs.SetInt("NewTotalPoints", newtotalPoints);
+        PlayerPrefs.Save();
     }
 
     void OnTriggerEnter2D(Collider2D other)  
@@ -133,6 +136,7 @@ public class GC : MonoBehaviour
             Destroy(other.gameObject);
             gcmenu.PlayCoin();
             totalpoints++;
+            newtotalPoints++;
             ValueText.text = totalpoints.ToString();
             AddPoints(1);
         }

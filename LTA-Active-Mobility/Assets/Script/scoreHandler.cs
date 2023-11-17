@@ -29,6 +29,8 @@ public class scoreHandler : MonoBehaviour
     private TextMeshProUGUI learningPoint3Text;
     public TextMeshProUGUI howmanyboxes;
 
+    public TextMeshProUGUI TotalPointsText;
+
     private AsyncOperation operation;
     
     private int current;
@@ -45,6 +47,13 @@ public class scoreHandler : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+
+        int totalPoints = PlayerPrefs.GetInt("NewTotalPoints", 0);
+
+        // Update the UI text with the loaded totalPoints
+        TotalPointsText.text = ": " + totalPoints.ToString() + " coins";
+
+
         //target text mesh
         learningPoint1Text = learningPoint1.GetComponent<TextMeshProUGUI>();
         learningPoint2Text = learningPoint2.GetComponent<TextMeshProUGUI>();
@@ -84,7 +93,7 @@ public class scoreHandler : MonoBehaviour
         }
         else
         {
-            distanceText.text = "Left: " + HealthManager.health;  
+            distanceText.text = "x " + HealthManager.health + ": " + "<color=red>+0 coins</color>";
             // health
         }
         
@@ -168,7 +177,7 @@ public class scoreHandler : MonoBehaviour
                 check3.SetActive(false);
             }
 
-            howmanyboxes.text = ": " + howmanybox.ToString();
+            howmanyboxes.text = "x " + howmanybox.ToString() + ": <color=red>+" + "0" + " coins</color>";
         }
     }
 
