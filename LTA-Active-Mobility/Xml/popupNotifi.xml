@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Root Element-->
+<popupNotify>
+	<!--Child Element-->
+	<popNoti>
+		<text>USE THE APPROPRIATE PATH, AVOID WALKING ON THE CYCLING PATH.</text>
+		<colliderName>cyclingTag</colliderName>
+		<!--if type is popup and duration is more than 0, it means this must be popup first and then convert to notification-->
+		<duration>3</duration>
+		<type>popup</type>
+	</popNoti>
+	<popNoti>
+		<text>DO NOT WALK ON THE ROADS.</text>
+		<colliderName>roadTag</colliderName>
+		<duration>3</duration>
+		<type>popup</type>
+	</popNoti>
+	<popNoti>
+		<text>Coins are scattered around the map. Collect as many as you can.</text>
+		<colliderName>coinTag</colliderName>
+		<!--if duration is 0 and type is popup, it is popup only-->
+		<duration>0</duration>
+		<type>popup</type>
+	</popNoti>
+	<popNoti>
+		<text>Remember to stay in the correct lane and keep a lookout.</text>
+		<colliderName>footTag</colliderName>
+		<duration>3</duration>
+		<timer>15.00</timer>
+		<type>notification</type>
+	</popNoti>
+	<popNoti>
+		<text>WATCH OUT! TRAFFIC LIGHT AHEAD. STOP AND WAIT FOR THE GREEN MAN BEFORE CROSSING THE ROAD.</text>
+		<colliderName>trafficTag</colliderName>
+		<duration>3</duration>
+		<type>popup</type>
+	</popNoti>
+	<popNoti>
+		<text>WATCH OUT! ZEBRA CROSSING AHEAD. STOP AND LOOK OUT FOR ONCOMING VEHICLES BEFORE CROSSING THE ROAD.</text>
+		<colliderName>zebraTag</colliderName>
+		<duration>3</duration>
+		<type>popup</type>
+	</popNoti>
+	<popNoti>
+		<text>Bridge ahead. You are able to cross over the road by using it.</text>
+		<colliderName>bridgeTag</colliderName>
+		<duration>0</duration>
+		<type>popup</type>
+	</popNoti>
+	<notiPhone>
+		<text>Do not use the phone when walking.</text>
+		<colliderName>Phone</colliderName>
+		<duration>3</duration>
+		<type>notification</type>
+	</notiPhone>
+</popupNotify>
