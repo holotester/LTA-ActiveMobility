@@ -1,0 +1,146 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.visibleLayersOnly": false,
+    "fileStates": {
+        "Assest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Asset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 852.5,
+                "y": 152.5
+            }
+        },
+        "New Project (1) (1).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "New Project (1) (2).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "New Project (1) (3).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "New Project (1).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "New Project.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "StreetLower.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "StreetNorthLower.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "TX Plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Stone Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "house.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (1).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (12).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (13).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (14).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (15).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (2).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0 (3).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixil-frame-0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "player.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "road.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "traffic-lights-red-icon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/wenmi/OneDrive/Desktop/Game",
+    "last.imagePath": "C:/Users/wenmi/OneDrive/Desktop/Game",
+    "map.height": 100,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.width": 100,
+    "openFiles": [
+        "StreetLower.tsx",
+        "StreetNorthLower.tsx",
+        "Map.tmx",
+        "Asset.tsx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "StreetLower.tsx",
+        "StreetNorthLower.tsx",
+        "Asset.tsx",
+        "Map.tmx",
+        "Assest.tsx",
+        "New Project (1) (3).tsx",
+        "pixil-frame-0 (15).tsx",
+        "pixil-frame-0 (14).tsx",
+        "pixil-frame-0 (13).tsx",
+        "pixil-frame-0 (12).tsx",
+        "New Project (1) (2).tsx",
+        "New Project (1) (1).tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}

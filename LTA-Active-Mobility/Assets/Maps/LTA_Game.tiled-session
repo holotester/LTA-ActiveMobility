@@ -1,0 +1,465 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "AMmap.tmx",
+    "expandedProjectPaths": [
+        "Bridge.tx",
+        "UsedTsx",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "AMmap.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -190,
+                "y": 206
+            }
+        },
+        "Asset.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Bridge.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 256,
+                "y": -2
+            }
+        },
+        "Buildings_Colour2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/Asset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/Bridge.tmx": {
+            "scale": 0.2321986607142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 251.93943763518405,
+                "y": -2.1533285267962583
+            }
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/paths.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/stroke1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/stroke3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/stroke4.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/stroke6.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/stroke7.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/terrain_atlas.tsx": {
+            "scaleInDock": 1
+        },
+        "NormalRoad.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 257.57575757575756,
+                "y": 1.5151515151515014
+            }
+        },
+        "Other.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "TempleRun.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1266,
+                "y": 2566
+            }
+        },
+        "UsedTsx/Asset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Buildings_Colour2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "UsedTsx/Buildings_Colour3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Buildings_Colour_new.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "UsedTsx/Other.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/PngItem_3373171.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Public Bus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Sample.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/StreetLower.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/StreetNorthLower.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/TX Plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Textures-16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/Thespazztikone_tilemaps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/allChars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/bus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/cars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/char.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/city.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.015625
+        },
+        "UsedTsx/hills.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/numbers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/paths.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/roadstuff.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/sportscar..tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/sportscar.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke4house0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/stroke8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/terrain_atlas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/vehicles0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "UsedTsx/waterwayBuilding.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "allChars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bridge 1.tmx": {
+            "expandedGroupLayers": [
+                13
+            ],
+            "scale": 0.2321986607142857,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 247.63278058159108,
+                "y": 6.45998558038923
+            }
+        },
+        "bridge.tmx": {
+            "expandedGroupLayers": [
+                13
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 126,
+                "y": -86
+            }
+        },
+        "buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fullmap.tmx": {
+            "expandedGroupLayers": [
+                11,
+                9,
+                10,
+                16
+            ],
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8704,
+                "y": 5118
+            }
+        },
+        "numbers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "paths.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "sportscar..tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "stroke1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "stroke2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "stroke3.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "stroke4.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "stroke5.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "stroke6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "stroke7.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "terrain_atlas.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "trafficJunction.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -709.6666666666666,
+                "y": -356.3333333333333
+            }
+        },
+        "trafficlight.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 60.60606060606061,
+                "y": 1.5151515151515014
+            }
+        },
+        "tsx/Asset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Buildings_Colour2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Buildings_Colour3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Buildings_Colour_new.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Sample.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/city.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/hills.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/paths.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/roadstuff.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.015625
+        },
+        "tsx/stroke1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/stroke7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zebraCross.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -566,
+                "y": 450
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Danis/Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps",
+    "last.externalTilesetPath": "C:/Users/Danis/Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps",
+    "last.imagePath": "C:/Users/Danis/Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps/Pngs",
+    "last.objectTemplatePath": "C:/Users/Danis/Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps/Bridge.tx",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Bridge.tmx",
+        "NormalRoad.tmx",
+        "trafficlight.tmx",
+        "fullmap.tmx",
+        "zebraCross.tmx",
+        "trafficJunction.tmx",
+        "AMmap.tmx",
+        "TempleRun.tmx"
+    ],
+    "project": "LTA_Game.tiled-project",
+    "recentFiles": [
+        "Bridge.tmx",
+        "NormalRoad.tmx",
+        "trafficlight.tmx",
+        "fullmap.tmx",
+        "zebraCross.tmx",
+        "trafficJunction.tmx",
+        "TempleRun.tmx",
+        "AMmap.tmx",
+        "tsx/stroke1.tsx",
+        "C:/Users/Danis/Desktop/Intern Stuff/Test/Assets/Maps/Bridge.tmx",
+        "buildings.tsx",
+        "stroke2.tsx"
+    ]
+}

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c3ccba991c4d8d24c8ebf22ef7f28f96
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - Could not generate asset path for '../../../../../Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps/terrain.png'
+  - 'Missing texture asset: ../../../../../Desktop/Intern Stuff/LTA-Active-Mobility-Web-App(MAIN)/Assets/Maps/terrain.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 13
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
